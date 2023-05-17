@@ -14,7 +14,7 @@ This color theme is not published onto VSCode extension marketplace as apparanet
 ```bash
 cd github-one-dark-theme
 
-vsce package
+vsce package --baseContentUrl "https://github.com/tysonwu/github-one-dark-theme"
 code --install-extension github-one-dark-theme-0.0.1.vsix
 ```
 
