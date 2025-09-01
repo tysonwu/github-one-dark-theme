@@ -794,7 +794,11 @@
     "semanticTokenColors": {
         "enumMember": "#d19a66",
         "property": "#ef596f",
-        "variable.defaultLibrary": "#e5c07b"
+        "variable.defaultLibrary": "#e5c07b",
+        // new ones
+	    "method": "#61AFEF",
+	    "member": "#EF596F",
+	    "variable.readonly": "#EF596F"        
     },
 	"tokenColors": [
 		{
