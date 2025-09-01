@@ -17,5 +17,8 @@
         "path": "./themes/github-one-dark-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "@vscode/vsce": "^3.6.0"
   }
 }
